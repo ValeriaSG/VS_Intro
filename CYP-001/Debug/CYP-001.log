@@ -1,0 +1,15 @@
+﻿  CYP-001.cpp
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(39,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(40,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(42,31): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(43,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(30,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(31,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(34,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(36,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(37,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(17,9): warning C4101: 'coorifdX': variable local sin referencia
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(13,9): warning C4101: 'coorspdX': variable local sin referencia
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(14,19): warning C4101: 'coorspiY': variable local sin referencia
+C:\Users\Juan Carlos\source\repos\CYP-001\CYP-001.cpp(18,19): warning C4101: 'coorifiY': variable local sin referencia
